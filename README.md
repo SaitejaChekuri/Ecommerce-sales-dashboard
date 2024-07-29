@@ -2,6 +2,7 @@
 ![image](https://github.com/user-attachments/assets/74951a7a-0f1e-4ee0-b0cc-94fbaaf63b5d)
 Project Overview:
 This Power BI project presents an interactive eCommerce Sales Dashboard that provides a comprehensive view of key performance indicators (KPIs) and sales metrics for an online retail business. The dashboard is designed to help stakeholders make data-driven decisions and identify trends, opportunities, and areas for improvement.
+
 Key Features:
 Sales Performance Analysis: Track total sales, revenue, and order quantity across different time periods (daily, weekly, monthly, quarterly, and yearly).
 Product Category Insights: Analyze sales performance by product categories to identify top-performing products and categories that need attention.
