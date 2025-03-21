@@ -1,7 +1,7 @@
 # Ecommerce-sales-dashboard
 # 🛒 E-Commerce Sales Dashboard 📊  
 
-![Dashboard Screenshot](image.png)  
+![image](https://github.com/user-attachments/assets/74951a7a-0f1e-4ee0-b0cc-94fbaaf63b5d)
 
 ## 🚀 Project Overview  
 This **Power BI Dashboard** provides an **interactive analysis** of e-commerce sales data, enabling businesses to make **data-driven decisions**.  
