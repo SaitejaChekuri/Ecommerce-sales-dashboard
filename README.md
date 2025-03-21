@@ -1,4 +1,53 @@
 # Ecommerce-sales-dashboard
+# 🛒 E-Commerce Sales Dashboard 📊  
+
+![Dashboard Screenshot](image.png)  
+
+## 🚀 Project Overview  
+This **Power BI Dashboard** provides an **interactive analysis** of e-commerce sales data, enabling businesses to make **data-driven decisions**.  
+
+🔹 **Technologies Used:**  
+- 📊 **Power BI** - Data Visualization  
+- 🛢 **MySQL** - Data Processing  
+- ⚡ **DAX** - Data Analysis Expressions  
+
+## 📌 Features  
+✅ **Real-time Sales Insights**  
+✅ **Category & Payment Method Analysis**  
+✅ **Profit Trends Over Time**  
+✅ **Interactive Filters for Deep Dive Analysis**  
+
+## 🎯 Key Metrics  
+- 📦 **Total Quantity Sold:** `212`  
+- 💰 **Total Revenue:** `107K`  
+- 📈 **Total Profit:** `62K`  
+- 🏙 **Top-Selling Locations:** `Delhi, Mumbai`  
+- 💳 **Popular Payment Methods:** `UPI, Cash, Credit Card`  
+
+## 📊 Dashboard Highlights  
+📌 **Top-Selling Categories**  
+- 🖥 **Electronics:** 54.2%  
+- 👕 **Clothing:** 36%  
+- 🛋 **Furniture:** 9.0%  
+
+📌 **Top-Performing Subcategories**  
+- 🔶 **Sofa:** Highest Profit  
+- 👔 **Shirts & Sweaters:** Moderate Sales  
+
+📌 **Yearly Sales Performance**  
+- 🚀 **Peak Year:** 2022  
+- 🔻 **Decline in Recent Years**  
+
+## 🎮 Interactive Elements  
+🎛 **Filter by Quarter & Year**  
+🔍 **Drill-down into Category-wise Sales**  
+📌 **Hover for Detailed Data Points**  
+
+## 🛠 How to Use  
+1️⃣ Clone this repo:  
+   ```bash
+   git clone https://github.com/your-username/Ecommerce-Sales-Dashboard.git
+
 ![image](https://github.com/user-attachments/assets/74951a7a-0f1e-4ee0-b0cc-94fbaaf63b5d)
 Project Overview:
 This Power BI project presents an interactive eCommerce Sales Dashboard that provides a comprehensive view of key performance indicators (KPIs) and sales metrics for an online retail business. The dashboard is designed to help stakeholders make data-driven decisions and identify trends, opportunities, and areas for improvement.
